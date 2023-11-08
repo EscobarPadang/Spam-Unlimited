@@ -4,5 +4,6 @@
 ```python
 $ git clone https://github.com/EscobarPadang/Spam-Unlimited
 $ cd Spam-Unlimited
-$ pip install -r requreiments.txt
+$ pip install -r requirements.txt
+$ pip install termcolor
 $ python pdam.py
